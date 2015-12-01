@@ -21,7 +21,7 @@
     "tests"
   ],
   "dependencies": {
-    "noty": "~2.2.5",
+    "noty": "~2.3.7",
     "angular": "~1.2.22",
     "jquery": "~2.1.1"
   }
